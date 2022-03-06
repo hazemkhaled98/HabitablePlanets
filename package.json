@@ -1,0 +1,22 @@
+{
+  "name": "habitable-planets",
+  "version": "1.0.0",
+  "description": "A project that explore Kepler OI CSV data file to answer the question wheather there is a possibility of life beynod Earth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Planets",
+    "Habitable Planets",
+    "Kepler",
+    "NodeJS",
+    "CSV",
+    "parse"
+  ],
+  "author": "Hazem",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
